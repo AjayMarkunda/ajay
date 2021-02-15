@@ -1,6 +1,4 @@
-import java.util.*;
-import java.lang.*;
-import java.text.DecimalFormat;
+package assignment;
 class Batsman1 {
 	String name; 
 	int runsScored; 

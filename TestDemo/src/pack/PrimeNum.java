@@ -33,7 +33,7 @@ public class PrimeNum
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Enter the size");
 		int size = scan.nextInt();
-		int[] a = new int[size];
+		int[] a1 = new int[size];
 		System.out.println("Enter the elements into array");
 		for(int i=0;i<=a.length-1;i++)
 		{
